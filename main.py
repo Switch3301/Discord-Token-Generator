@@ -11,7 +11,7 @@ from colorama import Fore
 import sys
 import os
 try:
-    os.system('pip install tlsshield')
+    os.system('pip install capmonster-task')
 except:
     pass
 
