@@ -10,10 +10,6 @@ import httpx
 from colorama import Fore
 import sys
 import os
-try:
-    os.system('pip install capmonster-task')
-except:
-    pass
 
 #check if data and output folder exists
 if not os.path.exists("data"):
