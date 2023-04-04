@@ -12,6 +12,9 @@ go to data/proxies.txt and put your proxies on `user:pass@ip:port` format. (i re
 
 # Info
 
+
+`Code is currently non functional` | `You can take the work to view and fix the code if you can`
+
 This code is meant to be used in a educational manner and not for harming others. This code is solely based on concept of the Account generation. This can be patched by discord anytime.
 I am not responsible for any harm caused by this tool. The Tool is just shared by me for Saving time finding it!
 
